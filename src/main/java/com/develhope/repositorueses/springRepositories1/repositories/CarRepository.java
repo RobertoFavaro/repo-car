@@ -1,6 +1,6 @@
-package springRepositories1.repositories;
+package com.develhope.repositorueses.springRepositories1.repositories;
 
-import springRepositories1.entity.Car;
+import com.develhope.repositorueses.springRepositories1.entity.Car;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.rest.core.annotation.RepositoryRestResource;
 

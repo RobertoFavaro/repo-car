@@ -1,7 +1,7 @@
-package springRepositories1.controller;
+package com.develhope.repositorueses.springRepositories1.controller;
 
-import springRepositories1.entity.Car;
-import springRepositories1.service.CarService;
+import com.develhope.repositorueses.springRepositories1.service.CarService;
+import com.develhope.repositorueses.springRepositories1.entity.Car;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

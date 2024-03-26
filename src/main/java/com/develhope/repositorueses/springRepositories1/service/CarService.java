@@ -1,6 +1,6 @@
-package springRepositories1.service;
+package com.develhope.repositorueses.springRepositories1.service;
 
-import springRepositories1.entity.Car;
+import com.develhope.repositorueses.springRepositories1.entity.Car;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

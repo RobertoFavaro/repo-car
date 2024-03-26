@@ -1,4 +1,4 @@
-package springRepositories1.entity;
+package com.develhope.repositorueses.springRepositories1.entity;
 
 import jakarta.persistence.*;
 
